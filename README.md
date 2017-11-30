@@ -9,4 +9,5 @@
   1. /data/wwwroot
   2. /data/wwwlogs
 - nginx
+  1. /usr/local/nginx
 	
