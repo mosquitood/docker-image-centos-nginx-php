@@ -10,4 +10,7 @@
   2. /data/wwwlogs
 - nginx
   1. /usr/local/nginx
+  2. /usr/local/nginx/conf/nginx.conf
+  3. /usr/local/nginx/conf/rewrite
+  4. /usr/local/nginx/conf/vhosts
 	
