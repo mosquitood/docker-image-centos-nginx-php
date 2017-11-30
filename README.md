@@ -13,4 +13,8 @@
   2. /usr/local/nginx/conf/nginx.conf
   3. /usr/local/nginx/conf/rewrite
   4. /usr/local/nginx/conf/vhosts
+- php
+  1. /usr/local/php
+  2. /usr/local/php/etc/php.ini
+  3. /usr/local/php/etc/php-fpm.conf
 	
